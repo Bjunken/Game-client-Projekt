@@ -1,0 +1,27 @@
+[
+    {
+        "username": "test",
+        "password_hash": "$2b$12$5qrj8SEw5nzfDgAwN/Ffiu37unCcX684ZvPwqulo99sgDru29sK56",
+        "email": "test@test.com"
+    },
+    {
+        "username": "test123",
+        "password_hash": "$2b$12$xgb.Wsfopo7h73tOhL1LuegG59NYAGhjOU3MXXm3cHnSF4Y2gDZ..",
+        "email": "test@hotmail.com"
+    },
+    {
+        "username": "silver",
+        "password_hash": "$2b$12$xN.od5cRwYS80Jcv3i.ma.LoxTuwA.w8XiHU9uyGAt99CBkHRPeli",
+        "email": "silver@live.se"
+    },
+    {
+        "username": "testagain",
+        "password_hash": "$2b$12$lDQ01mOeRdMavozk9vWDyOQBRX42CsSxFbFkIyWWUw68vF9V.nBju",
+        "email": "etat@tate515.com"
+    },
+    {
+        "username": "tester",
+        "password_hash": "$2b$12$7g7KkvZqfpxx34uxsRKaUuD0LeTrsF3o94BruAir/w344P5ZaHVfu",
+        "email": "hejsan@live.se"
+    }
+]

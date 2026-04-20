@@ -1,0 +1,13 @@
+{
+    "test": [
+        {
+            "username": "test",
+            "status": "offline"
+        },
+        {
+            "username": "silver",
+            "status": "offline"
+        }
+    ],
+    "test_requests": []
+}
